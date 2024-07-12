@@ -25,7 +25,7 @@
     <section id="kos" class="kos section-bg">
         <div class="container">
             <div class="section-title" data-aos="fade-up">
-                <h2>Rekomendasi KOS</h2>
+                <h2>Rekomendasi KOST</h2>
                 <p>Sistem Rekomendasi Pemilihan Tempat Kos Metode SAW</p>
                 <strong>*Jumlah bobot harus sama dengan 1</strong>
             </div>
